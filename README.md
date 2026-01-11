@@ -1,4 +1,6 @@
-# medical-computational-vision-
+# medical-computational-vision
+STATUS: ONGOING
+
 Medical advanced computational vision project for MRI DICOM analysis, reconstruction and machine learning.
 
 Genom att dekonstruera hjärnans biologi med ingenjörsvetenskaplig systematik, transformerar detta projekt ostrukturerad 3T MRI-data till intelligenta, sökbara IFC-modeller
